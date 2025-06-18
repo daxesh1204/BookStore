@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Movie Books",
+    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 0,
+    "category": "Free",
+    "image": "books.jpg",
+    "image1": "banner2.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Programming Language Book",
+    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 50,
+    "category": "C,C++,JAVA",
+    "image": "books.jpg",
+    "image1": "banner2.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Compatitive Exam Book",
+    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 100,
+    "category": "GATE",
+    "image": "books.jpg",
+    "image1": "banner2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "University Exam Book",
+    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 150,
+    "category": "Web & App Development",
+    "image": "books.jpg",
+    "image1": "banner2.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Current Technology Book",
+    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 200,
+    "category": "Web Development",
+    "image": "books.jpg",
+    "image1": "banner2.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Story Book",
+    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 0,
+    "category": "Free",
+    "image": "books.jpg",
+    "image1": "banner2.jpg"
+  },
+  {
+    "id": 6,
+    "name": "GK Books",
+    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 0,
+    "category": "Free",
+    "image": "books.jpg",
+    "image1": "banner2.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Promenade",
+    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 0,
+    "category": "Free",
+    "image": "books.jpg",
+    "image1": "banner2.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Yoga Book",
+    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 0,
+    "category": "Free",
+    "image": "books.jpg",
+    "image1": "banner2.jpg"
+  }
+]
