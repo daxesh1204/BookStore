@@ -1,5 +1,5 @@
 function Cards({ item }) {
-  console.log(item);
+  // console.log(item);
   return (
     <>
       <div className="mt-5 my-3 p-3">

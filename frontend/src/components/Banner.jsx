@@ -6,7 +6,7 @@ const Banner = () => {
           <div className="space-y-12">
             <h1 className="text-4xl font-bold">
               Hello, Welcomes here to learn something{" "}
-              <span className="text-pink-500">new evenryday!!!</span>
+              <span className="text-pink-500">new everyday!!!</span>
             </h1>
             <p className="text-xl">
               Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugit,
@@ -34,7 +34,7 @@ const Banner = () => {
               <input type="email" placeholder="mail@site.com" required />
             </label>
           </div>
-          <button className="btn btn-secondary mt-6 mb-6">Secondary</button>
+          <button className="btn btn-secondary mt-6 mb-6">Get Started!!</button>
         </div>
         <div className="order-1 w-full md:w-1/2">
           <img src="banner.jpg" alt="banner-image" className="w-92 h-92" />
